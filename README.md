@@ -10,3 +10,7 @@ Use the App at in the end of each day to reflect on your journey.
 To communicate with the process while it's running.
 
 * Asychronism
+
+
+# aplicação para reflexão, usando o node js.
+=)
