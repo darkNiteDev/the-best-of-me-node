@@ -12,5 +12,5 @@ To communicate with the process while it's running.
 * Asychronism
 
 
-## aplicação para refletir sobre o desenvolvimento diário, utilizando o node no terminal bash.
+## Aplicação para refletir sobre o desenvolvimento diário, utilizando o node no terminal bash.
 =)
